@@ -64,6 +64,9 @@ Lot of time, a good song from lesser-known artist may not be that popular compar
 
 # Tool
 Understand data  ->Excel  
+
 Data visualizations & insights -> Tableau
+
 Data cleaning -> RapidMiner
+
 Predictive Modeling -> RapidMiner
